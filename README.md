@@ -1,4 +1,4 @@
-Creating a README for your `GaussianMixtureTechnique` project, particularly for the `expectation_maximization.ipynb` notebook, involves summarizing the key aspects of the project, its purpose, and how to use it. Here's a suggested template:
+
 
 ---
 
